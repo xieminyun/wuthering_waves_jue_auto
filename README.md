@@ -2,6 +2,9 @@ https://www.bilibili.com/video/BV129hDeoEEG/?spm_id_from=333.337.search-card.all
 
 由此视频代码修改
 适配于角色已拉到90的玩家打70级角副本
+
+战斗代码用的是安可 暗主 维里奈 可自行修改fight函数代码适配不同队伍
+
 鸣潮游戏请选择全屏
 
 对应2560 x 1440 和 3840 x 2160两种分辨率分别使用两个文件夹的main
