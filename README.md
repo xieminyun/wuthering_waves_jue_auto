@@ -15,9 +15,15 @@ https://www.bilibili.com/video/BV129hDeoEEG/?spm_id_from=333.337.search-card.all
 pip install ./requirements.txt
 ```
 
-使用管理员打开！！！！！！否则鼠标右键后撤可能识别不了
+使用管理员权限打开cmd！！！！！！
 
-cmd进对应目录后
+使用管理员权限打开cmd！！！！！！
+
+使用管理员权限打开cmd！！！！！！
+
+否则鼠标右键后撤识别不了
+
+命令行进对应目录后
 
 ```
 python ./main.py
